@@ -2,7 +2,7 @@
 
 ##What does this bot do?
 This bot will welcome anybody who join the server based on the code.. It has to be set manually in the code..
-But don't worry Just check this Video out if you need any help reguarding setup of this bot..
+But don't worry Just check this [Video](https://www.youtube.com/watch?v=CW1hEPiBBJc) out if you need any help reguarding setup of this bot..
 
 ##Languages Used
 discord.js
