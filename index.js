@@ -3,6 +3,7 @@ let client = new Discord.Client();
 
 client.on("ready", () => {
   client.user.setPresence({ activity: { name: "Listening to Discord Tricks"}}) //this is the bot status code..
+  console.log("Bot is online") //changed by venom
 })
 
 client.on("guildMemberAdd", member => {
